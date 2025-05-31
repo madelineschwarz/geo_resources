@@ -7,6 +7,7 @@ List of relevant links to datasets, repos, and papers
 - [QUAKES-I data acquisitions](https://asterweb.jpl.nasa.gov/quakes/)
 - [NEON sites Data](https://www.neonscience.org/field-sites/explore-field-sites)
 - [Probablistic Seismic Hazard Analysis Primer](https://opensha.org/resources/PSHA_Primer_v2_0.pdf)
+- [Geomorphic Indicator Ranking System asu.edu](http://activetectonics.asu.edu/mapping_active_faults/Lectures/Geomorphic_Indicator_Ranking_System_GIR.pdf)
 - [FGDC Digital Cartographic Standard for Geologic Map Symbolization](https://pubs.usgs.gov/tm/2006/11A02/)
 - [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
 - [Euler Angles Gimbal Visualization by Chris Tralie](https://compsci290-s2016.github.io/CoursePage/Materials/EulerAnglesViz/)
