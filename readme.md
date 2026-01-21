@@ -15,6 +15,7 @@ List of relevant links to datasets, repos, and papers
 - [Drone Flight Planning by Zhiang Chen](https://github.com/ZhiangChen/learning_field_robotics/blob/main/docs/logistics/UAV_mapping_logistics.md)
     -[Create Flight grid with Ancient lands](https://ancient.land/)  -- export grid to csv
     -Import grid into [Litchi](https://flylitchi.com/hub)
+- [QGIS Magic Georeferencer Plugin (automated georef. tool)](https://plugins.qgis.org/plugins/magic_georeferencer/)
   
 
   
